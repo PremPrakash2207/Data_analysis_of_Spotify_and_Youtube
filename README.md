@@ -1,5 +1,3 @@
-# Data_analysis_of_Spotify_and_Youtube
-
 # Spotify and YouTube Data Analysis
 
 This project analyzes a dataset of popular songs, combining data from both Spotify and YouTube to uncover trends in music popularity, artist performance, and song characteristics. The analysis explores relationships between Spotify streams, YouTube views, likes, comments, and various audio features.
